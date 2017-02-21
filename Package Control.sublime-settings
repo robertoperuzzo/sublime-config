@@ -5,7 +5,9 @@
 	],
 	"installed_packages":
 	[
+		"BracketHighlighter",
 		"CodeComplice",
+		"DocBlockr",
 		"Dockerfile Syntax Highlighting",
 		"Drupal",
 		"Drupal Completions",
@@ -13,7 +15,10 @@
 		"GitGutter",
 		"Go To Definition",
 		"Goto Drupal API",
+		"Jekyll",
 		"LESS",
+		"MarkdownEditing",
+		"MarkdownHighlighting",
 		"PlainTasks",
 		"Sass",
 		"SassBeautify",
