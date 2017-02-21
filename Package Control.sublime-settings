@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"CodeComplice",
+		"Dockerfile Syntax Highlighting",
+		"Drupal",
+		"Drupal Completions",
+		"Drupal Project Autocomplete",
+		"GitGutter",
+		"Go To Definition",
+		"Goto Drupal API",
+		"LESS",
+		"PlainTasks",
+		"Sass",
+		"SassBeautify",
+		"SideBarEnhancements",
+		"subDrush",
+		"SublimeLinter",
+		"SyncedSideBar",
+		"Syntax Highlighting for Sass",
+		"termX",
+		"Theme - Spacegray"
+	]
+}
